@@ -147,16 +147,12 @@ curl ifconfig.me
 ## 📁 Структура репозитория
 
 ```
-📦 vpn-configs
+📦 config_2ray
 ├── 📂 configs/
 │   ├── 📄 vless.txt
 │   ├── 📄 hysteria2.txt
 │   ├── 📄 trojan.txt
 │   └── 📄 shadowsocks.txt
-├── 📂 subscriptions/
-│   └── 📄 subscription-link.txt
-├── 📂 qr-codes/
-│   └── 🖼️ *.png
 └── 📄 README.md
 ```
 
